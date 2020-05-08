@@ -8,7 +8,7 @@
 
 ## WELCOME
 
-I had no idea I could host a simple site on GitHub
+I had no idea I could host a simple site on GitHub.
 
 This will make a nice landing page whilst I sort out my wordpress site but the best part of hosting the page here it is automatically secured with keybase encryption.
 
@@ -17,3 +17,5 @@ I have started to play around with docker and currently enjoying playing around 
 Anyway speak soon..
 
 Gavin
+
+
