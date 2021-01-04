@@ -14,8 +14,3 @@ This will make a nice landing page whilst I work out what online presence I want
 
 I have started to play around with docker and currently enjoying playing around with containers.  This makes a refreshing change from the day to day administration of Office 365 and Server issues etc.
 
-Anyway speak soon..
-
-Gavin
-
-
