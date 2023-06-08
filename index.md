@@ -6,14 +6,12 @@
   p             {margin:30px 0;}
 </style>
 
-# Welcome To My Site
+# Welcome
 
 
-About Me
+## About Me
 
 I am currently employed as an infrastructure engineer supporting all aspects of a Microsoft based corporate network with over 22 years’ experience working in the IT industry.
-
-I am working out what online presence I want from my site but envisage that I will expand on my home lab, docker etc.
 
 
 ---
